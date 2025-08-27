@@ -14,6 +14,7 @@
     background-color: #ddebf8;
     border-bottom: #d8cefe 4px solid;
     color: #2b2839;
+    border-radius: 10px;
 }
 
 .border {
@@ -25,7 +26,7 @@
 }
 
 body {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: #2b2839;
+    font-family: Verdargb(8, 10, 2)eva, Tahoma, sans-serif;
+    background-color: #0f1105;
     direction: auto;
 }
